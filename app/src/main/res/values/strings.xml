@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">General Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search">Search</string>
+
+    <string name="pdf_download_message_1">Please provide url of PDF to download</string>
+    <string name="pdf_1_location">PDF1 File Location:</string>
+
+
+    <string name="start_download">Start Download</string>
+
+    <string name="select_flag">Select Binding Service Flag</string>
+    <string name="flag_bind_adjust">BIND_ADJUST_WITH_ACTIVITY</string>
+    <string name="flag_bind_adjust_message">BIND_ADJUST_WITH_ACTIVITY just creates the service but does not start it. You have to use BIND_ADJUST_WITH_ACTIVITY with BIND_AUTO_CREATE in order to start the service</string>
+</resources>
